@@ -1,0 +1,25 @@
+.posts-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.card {
+    box-shadow: 5px 5px 10px #808080;
+    background-color: #f0f8ff;
+    min-width: 50rem;
+}
+
+.form-control {
+    width: 50rem;
+    margin-bottom: 10px;
+}
+
+.new-post {
+    border: 1px solid #000000;
+    margin: 20px;
+    border-radius: 5px;
+    max-width: 50rem;
+    padding: 15px;
+}
